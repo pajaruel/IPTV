@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:0,UES TV | HD
+http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
+#EXTINF:0,unicanal paraguay
+http://45.55.127.106/live/unicanal_src.m3u8
+#EXTINF:0,UNIMAS
+http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/5233_.m3u8
+#EXTINF:0,UNIVISION
+http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/5238_.m3u8
+#EXTINF:0,Univision
+https://streams.the6tv.duckdns.org:2443/locals/BayArea/kfsf-dt2.m3u8
+#EXTINF:0,Univision
+https://cdn007.the6tv.duckdns.org:2443/the6tv-phl/wuvp-dt1/index.m3u8
+#EXTINF:102,US | Qello Concerts
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?checkedby:hlscat.com
+#EXTINF:0,VALLEVISION
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+#EXTINF:0,VC Online HD
+https://593b04c4c5670.streamlock.net/8068/8068/chunklist_w2070277572.m3u
+#EXTINF:0,VE  PLUS TV
+http://190.122.96.187:8888/http/006
+#EXTINF:0,VH 1 ITALIA /HD/
+http://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+#EXTINF:0,VH1 TV HD
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8?ct=c&expand=simulcast_standard&exp=1529767847&rn=-811303751&cid=36953f5b6546464590d2fcd954bc89cf&tc=1&sig=
+#EXTINF:0,VIAJE A LAS ESTRELLAS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6049295e7dcef800073c2499/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
+#EXTINF:0,VILLA TV
+https://inliveserver.com:1936/10016/10016/playlist.m3u8
+#EXTINF:0,Vision NDV | HD | Santiago
+https://cloudflare.streamgato.us:3171/live/visionndvlive.m3u8
+#EXTINF:0,WARNER
+http://contentheinentv.ddns.net/Contenido/xtreamcodes/iptv_xtream_codes/streams/5253_.m3u8
+#EXTINF:0,WILLAX  TV /HD
+https://stream-02.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmg-Ry6umddu9W-Opfw0Ss9w)/dm/3/x7x4dgx/s/live-1.m3u8
+#EXTINF:0,WIPE OUT
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
+#EXTINF:0,WMS (RD)
+https://cm.hostlagarto.com:4445/wmserviceHD/wmservicehd.myStream/playlist.m3u8
+#EXTINF:30,WOW TV
+https://cdn.elsalvadordigital.com:1936/wowtv/wowtv.smil/.m3u8
+#EXTINF:0,WOW!
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0,Xplore TV
+http://web.onair-radio.eu:1935/explorecy/explorecy/playlist.m3u8
+#EXTINF:0,ZEE MUNDO TV
+https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
+#EXTINF:0,ZONA PLAY RADIO /HD/
+https://srv1.zcast.com.br/zonaplay/zonaplay/playlist.m3u8
+#EXTINF:0,ZPTV
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/playlist.m3u8
+#EXTINF:0,
+https://strm.yandex.ru/kal/sibir/sibir0.m3u8
+#EXTINF:0,Cine Romantico
+https://hls.xumo.com/channel-hls/v2/7a884267de5c44a9/9999464/master.m3u8
+#EXTINF:0,Cine
+https://hls.xumo.com/channel-hls/v2/7a884267de5c44a9/9999449/master.m3u8
+#EXTINF:0,Cine
+https://hls.xumo.com/channel-hls/v2/7a884267de5c44a9/9999448/master.m3u8
+
+#EXTINF:-1,Star Channel
+http://195.181.163.39/LAT_Fox_HD/index.m3u8
+#EXTINF:-1,Space
+http://195.181.163.39/LAT_Space_HD/index.m3u8
+#EXTINF:-1,TNT
+http://195.181.163.39/LAT_TNT_HD/index.m3u8
+#EXTINF:-1,Cinecanal
+http://195.181.163.39/LAT_Cinecanal_HD/index.m3u8
+#EXTINF:-1,Azteca 7
+http://195.181.163.39/LAT_Azteca_7_HD/index.m3u8
+#EXTINF:-1,TNT Series
+http://195.181.163.39/LAT_TNT_Series_HD/index.m3u8
+#EXTINF:-1,Star Life
+http://195.181.163.39/LAT_Fox_Life_HD/index.m3u8
+
+#EXTINF:-1,ace
+acestream://3a5f59e4777c41275aa5c53b585f41ad66b32cc5
