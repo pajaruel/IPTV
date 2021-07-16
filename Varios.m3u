@@ -63,7 +63,7 @@ http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
 #EXTINF:0, Canal 13 Paraguay
 http://174.138.118.252/live/canal13stream.m3u8
-#EXTINF:0, Canal 21 Chill·n
+#EXTINF:0, Canal 21 Chill√°n
 http://edge1.cl.grupoz.cl/canal21tv/live/chunklist_w148640593.m3u
 #EXTINF:0, CANAL 3 PLUS TV  MACHAGAI CHACO
 https://59537faa0729a.streamlock.net/plustvmachagai/plustvmachagai/playlist.m3u8
@@ -83,13 +83,13 @@ http://190.3.169.119:8080/latina/latina/playlist.m3u8
 http://209.126.102.141/FQVbwkwBzMaUy9v3/lamvtv/get.php?get=live&url=aHR0cDovLzIzLjIzNy4xMDIuMTc4OjI1NDYxL2xpdmUvVE9UQUxQTEFZLUhELUxBTVRWL2dFcUdXN1JUMFYvMjA3Lm0zdTg=&type=playlist.m3u8
 #EXTINF:0, Canal U
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8
-#EXTINF:0, Canal VisiÛn Dorada
+#EXTINF:0, Canal Visi√≥n Dorada
 https://movil.ejeserver.com/live/visiondorada.m3u8
-#EXTINF:0, CGTN EspaÒol
+#EXTINF:0, CGTN Espa√±ol
 http://livees.cgtn.com/1000e/prog_index.m3u8
 #EXTINF:0, CINE CLUB
 https://stmv.panel.mivideo.pro/cineclubtv/cineclubtv/playlist.m3u8
-#EXTINF:0, Cine Club | SD | Per˙
+#EXTINF:0, Cine Club | SD | Per√∫
 https://stmv.panel.mivideo.pro/cineperu/cineperu/playlist.m3u8
 #EXTINF:0, Cine Plus
 http://gmsiptv.ddns.net:8080/hls/cineplus.m3u8
@@ -121,7 +121,7 @@ https://cloud37.ecuatel.com/educa/educa/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/playlist.m3u8
 #EXTINF:1, EL TRES
 https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/.m3u8
-#EXTINF:55, ESPA—OL RUN TIME
+#EXTINF:55, ESPA√ëOL RUN TIME
 https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
 #EXTINF:0, ESTRELLA NEWS
 https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
@@ -129,7 +129,7 @@ https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-5
 http://209.126.102.141/FQVbwkwBzMaUy9v3/lamvtv/get.php?get=live&url=aHR0cDovLzIzLjIzNy4xMDIuMTc4OjI1NDYxL2xpdmUvVE9UQUxQTEFZLVNELUxBTVRWL0NIck1CQXZzMmUvNTgubTN1OA==&type=playlist.m3u8
 #EXTINF:0, EURO SPORTS /HD/
 https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
-#EXTINF:0, EuroLatina TV EspaÒa
+#EXTINF:0, EuroLatina TV Espa√±a
 https://cdn01.yowi.tv/ZM1I2N6F9E/master.m3u8
 #EXTINF:0, Exprezion TV
 https://srv3.zcast.com.br/expreszion/expreszion/playlist.m3u8
@@ -205,7 +205,7 @@ http://iptv.btpba1.es.network.do:8080/martv-web/video.m3u8?_=1
 https://live.siete.us/mascumbiatvonline/mascumbiatvonline/tracks-v1a1/mono.m3u8
 #EXTINF:0, Max TV
 https://59c3c7bda15f4.streamlock.net:444/maxtvonline/smil:maxtvonline.smil/playlist.m3u8
-#EXTINF:0, Media TV| HD | EspaÒa
+#EXTINF:0, Media TV| HD | Espa√±a
 http://media.profesionalhosting.com:1935/8175/8175/.m3u8
 #EXTINF:0, Mega
 http://stream.tvtap.live:8081/live/es-mega.stream/playlist.m3u8
@@ -217,7 +217,7 @@ https://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_w1665315595_
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:0, Movistar #0
 http://stream.tvtap.live:8081/live/es-moviestar0.stream/playlist.m3u8
-#EXTINF:0, Movistar AcciÛn
+#EXTINF:0, Movistar Acci√≥n
 http://stream.tvtap.live:8081/live/es-movistar-accion.stream/playlist.m3u8
 #EXTINF:0, Movistar Cine
 http://stream.tvtap.live:8081/live/es-moviestarcinen.stream/playlist.m3u8
@@ -262,15 +262,15 @@ https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 https://vdo.mivideo.pro:3725/stream/play.m3u8
 #EXTINF:0, Rec On Line | HD | Bolivia
 https://master.tucableip.com/reconline/live/video.m3u8
-#EXTINF:0, Red TV| HD | EspaÒa
+#EXTINF:0, Red TV| HD | Espa√±a
 https://i.imgur.com/Cc1CypC.mp4
 #EXTINF:0, Resplandor Vision
 https://ss6.domint.net:2996/rtv_str/rvision/playlist.m3u8
 #EXTINF:0, Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
-#EXTINF:30, Retro Plus TV SeÒal 2
+#EXTINF:30, Retro Plus TV Se√±al 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1742877987.m3u8
-#EXTINF:0, RT EspaÒol
+#EXTINF:0, RT Espa√±ol
 https://rt-esp.secure.footprint.net/1102.m3u8?fluxustv.m3u8
 #EXTINF:0, RTVE
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
@@ -278,11 +278,11 @@ https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 #EXTINF:0, SEXY KPOP TV
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
-#EXTINF:1, SE—AL COLOMBIA
+#EXTINF:1, SE√ëAL COLOMBIA
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
 #EXTINF:0, SICARDI TV /HD/
 https://vivo.solumedia.com:19360/sicarditv/sicarditv.m3u8?_=1
-#EXTINF:0, SoberanÌa
+#EXTINF:0, Soberan√≠a
 http://tls.cdnz.cl/iflexus/live/playlist.m3u8
 #EXTINF:0, Solo Stand Up
 https://paneltv.online:1936/8116/8116/playlist.m3u8
@@ -318,13 +318,13 @@ http://174.138.118.252/live/trece.m3u8
 https://5d79ae45bc63b.streamlock.net:443/radiotropical952/radiotropical952/playlist.m3u8
 #EXTINF:0, TV LATINA HD
 https://master.tucableip.com/live/tvlatinamontero/tracks-v1a1/mono.m3u8
-#EXTINF:0, TV PacÌfico Culiac·n
+#EXTINF:0, TV Pac√≠fico Culiac√°n
 https://5ca3e84a76d30.streamlock.net/gpacifico1/gpculiacan.smil/chunklist_w533354476_b1428000_sleng.m3u8
-#EXTINF:0, TV PacÌfico Mazatl·n
+#EXTINF:0, TV Pac√≠fico Mazatl√°n
 https://5ca3e84a76d30.streamlock.net/gpacifico4/mazatlan.smil/chunklist_w2014129075_b1428000_sleng.m3u8
-#EXTINF:0, TV PacÌfico Mochis
+#EXTINF:0, TV Pac√≠fico Mochis
 https://5ca3e84a76d30.streamlock.net/gpacifico2/mochis.smil/chunklist_w370910680_b1428000_sleng.m3u8
-#EXTINF:0, TV PacÌfico ObregÛn
+#EXTINF:0, TV Pac√≠fico Obreg√≥n
 https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/chunklist_w1411659083_b1428000_sleng.m3u8
 #EXTINF:0, TV5 LIMARES
 https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8?
@@ -340,7 +340,7 @@ http://media.profesionalhosting.com:1935/8441/8441/playlist.m3u8
 https://v2.tustreaming.cl/utvsc/live1/index.m3u8
 #EXTINF:0, VALLEVISION
 https://streaming.telecablecentral.com.do/Vallevision/ValleHD/playlist.m3u8
-#EXTINF:0, Video Rola | SD |MÈxico
+#EXTINF:0, Video Rola | SD |M√©xico
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index_1.m3u8
 #EXTINF:0, Vintage Music TV
 https://streamingserver002.viewtvgroup.com/kapanglivetv-playout-vintagemusictv/tracks-v1a1/mono.m3u8
@@ -368,7 +368,7 @@ https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:0,GEN TV - 17.3
 https://videohd.live:19360/8010/8010.m3u8
-#EXTINF:0, FRANCE 24 ESPA—OL - 24.3
+#EXTINF:0, FRANCE 24 ESPA√ëOL - 24.3
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 #EXTINF:0,24h Catalunya
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@156275/master.m3u8
@@ -394,7 +394,7 @@ http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 https://rtmp02.portalexpress.es/acvisionazogues/acvisionazogues/playlist.m3u8
 #EXTINF:0,Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
-#EXTINF:60,AFV EspaÒol (US)
+#EXTINF:60,AFV Espa√±ol (US)
 https://linear-46-plex.frequency.stream/46/hls/master/playlist.m3u8
 #EXTINF:0,AKC TV
 https://video.blivenyc.com/broadcast/prod/2061/22/desktop-playlist.m3u8?checkedby:iptvcat.com
@@ -478,7 +478,7 @@ https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist
 https://live.canalnueve.tv/canal.m3u8
 #EXTINF:0,Canal Once Nacional
 http://live.canaloncelive.tv:1935/livepkgr/smil:nacional.smil/playlist.m3u8
-#EXTINF:0,Canal Sur AndalucÌa
+#EXTINF:0,Canal Sur Andaluc√≠a
 https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8
 #EXTINF:1,CANAL TRO
 https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
@@ -510,9 +510,9 @@ http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 https://59537faa0729a.streamlock.net/cincotv/cincotv/playlist.m3u8
 #EXTINF:0,CINE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
-#EXTINF:0,CINE ACCI”N
+#EXTINF:0,CINE ACCI√ìN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
-#EXTINF:0,CINE ACCI”N 2
+#EXTINF:0,CINE ACCI√ìN 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
 #EXTINF:0,CINE ADRENALINA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804192-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0b46a48-3e72-4c90-a658-826f98daa8a9&userId=&serverSideAds=true
@@ -544,9 +544,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 #EXTINF:0,CINE ROMANCE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
-#EXTINF:0,CINE ROM¡NTICO
+#EXTINF:0,CINE ROM√ÅNTICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a89d0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b946b5ad-df98-4df0-a5c3-637b325d942e&userId=&serverSideAds=true
-#EXTINF:60,CINE SURE—O
+#EXTINF:60,CINE SURE√ëO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:0,CINE SUSPENSO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
@@ -562,7 +562,7 @@ http://210.210.155.35/uq2663/h/h04/01.m3u8
 https://596639ebdd89b.streamlock.net/8032/8032/index.m3u8
 #EXTINF:29,COSMO
 http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8
-#EXTINF:30,COSMO TV HD ESPA—A
+#EXTINF:30,COSMO TV HD ESPA√ëA
 http://91.126.141.201:1935/live/cosmoHD/chunklist_w839248560.m3u8
 #EXTINF:0,CSI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
@@ -586,21 +586,21 @@ http://91.126.141.201:1935/live/kiss/playlist.m3u8
 http://91.126.141.12:1935/live/discoverymax/playslist.m3u8
 #EXTINF:0,DOUG EL CAZARRECOMPENZA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
-#EXTINF:1780,DW /HD/ ESPA—OL
+#EXTINF:1780,DW /HD/ ESPA√ëOL
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:0,Estrella Noticias (US)
 https://estrellanews-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,Estrella TV (US)
 https://estrellatv-roku.amagi.tv/playlist.m3u8
-#EXTINF:0,ESTRELLAS DE ACCI”N
+#EXTINF:0,ESTRELLAS DE ACCI√ìN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
 #EXTINF:0,ETB 1
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR1_1@595581/master.m3u8
 #EXTINF:0,ETB 2
 https://etbvnogeo-lh.akamaihd.net/i/ETBSTR2_1@595582/master.m3u8
-#EXTINF:0,EuroLatina TV EspaÒa
+#EXTINF:0,EuroLatina TV Espa√±a
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
-#EXTINF:0,Euronews EspaÒol (EU)
+#EXTINF:0,Euronews Espa√±ol (EU)
 https://euronews-euronews-spanish-2.roku.wurl.com/manifest/playlist.m3u8
 #EXTINF:0,Euronews | HD | Francia
 https://rakuten-euronews-4-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -616,7 +616,7 @@ https://contracorriente-canalfeelgood-1-es.samsung.wurl.com/manifest/playlist.m3
 http://stream.tvtap.live:8081/live/es-fox-life.stream/playlist.m3u8
 #EXTINF:0,Fox Life
 https://sireclipsfoxru-vh.akamaihd.net/i/mpx/FIC_SIRE_Fox/831/336/Sneak_Peek~~111704~12~21~en~~1_ru_42787397,100_mp4_video_1920x0_4016000_primary_audio_6,099_mp4_video_1280x0_2432000_primary_audio_5,098_mp4_video_1280x0_1800000_primary_audio_4,097_mp4_video_960x0_1200000_primary_audio_3,096_mp4_video_640x0_568000_primary_audio_2,095_mp4_video_480x0_400000_primary_audio_1,.mp4.csmil/master.m3u8
-#EXTINF:0,F⁄TBOL PARA FANS
+#EXTINF:0,F√öTBOL PARA FANS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 #EXTINF:0,GALAVISION
 https://dai.google.com/linear/hls/event/SIvlK2VmTsqL_hgyKeFIPg/master.m3u8
@@ -658,7 +658,7 @@ https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/playlist.m3u8
 #EXTINF:0,Justicia TV (Opt-2)
 https://live.scjn.gob.mx/EVLiveSCJN/_definst_/mp4:YXWKLCDT/chunklist_w1760841144.m3u8
-#EXTINF:0,KaribeÒa TV
+#EXTINF:0,Karibe√±a TV
 https://cu.onliv3.com/livevd/user1.m3u8
 #EXTINF:0,La 1
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
@@ -678,7 +678,7 @@ https://vidaprimo-distroscale.amagi.tv/playlist.m3u8
 https://panel.streamingtv-mediacp.online:1936/8044/8044/playlist.m3u8
 #EXTINF:0,LEARNING & KNOWLEDGE
 http://210.210.155.35/x6bnqe/s/s36/S1/mnf.m3u8
-#EXTINF:0,Life TV | HD | EspaÒa
+#EXTINF:0,Life TV | HD | Espa√±a
 http://media.profesionalhosting.com:1935/8201/8201/chunklist_w1047512158.m3u8
 #EXTINF:0,Light Channel
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
@@ -854,7 +854,7 @@ https://runtime-espana-rakuten.amagi.tv/playlist.m3u8
 https://runtimeespana-samsungspain.amagi.tv/playlist.m3u8
 #EXTINF:60,RUN:TIME 3
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
-#EXTINF:53,Runtime EspaÒol (US)
+#EXTINF:53,Runtime Espa√±ol (US)
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:1,RUNTIME LATINO
 https://runtime-espanol-roku.amagi.tv/playlist.m3u8
@@ -862,7 +862,7 @@ https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 #EXTINF:0, ZONDA TV 35.1 - SAN JUAN
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
-#EXTINF:0,SARAPIQUÕ TV
+#EXTINF:0,SARAPIQU√ç TV
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 #EXTINF:0,SCI-FI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
@@ -912,7 +912,7 @@ https://stirr.ott-channels.stingray.com/naturescape/master_1920x1080_4500kbps.m3
 https://stirr.ott-channels.stingray.com/qello/master_1920x1080_4500kbps.m3u8
 #EXTINF:0,Super TV
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:0,Tastemade EspaÒol (US)
+#EXTINF:0,Tastemade Espa√±ol (US)
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:0,TBS
 http://tbs.hscdn.com/tbstvweb/tbstv/chunklist_w1331473189.m3u8
@@ -1012,7 +1012,7 @@ https://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/1280x720_5
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b8904033-58e7-4560-aaa9-57dc6911f64b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6890d1bc-9854-11eb-a8b4-0242ac110002&userId=&serverSideAds=true
 #EXTINF:0,TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
-#EXTINF:0,Top Latino TV Per˙
+#EXTINF:0,Top Latino TV Per√∫
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 #EXTINF:0,TRAVEL GUIDE TV
 http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
@@ -1028,7 +1028,7 @@ https://5fa5de1a545ae.streamlock.net/turistik/turistik/.m3u8
 http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?checkedby:iptvcat.com
 #EXTINF:0,TV Digital Birigui
 http://tv02.logicahost.com.br:1935/tvdigitalbirigui/tvdigitalbirigui/live.m3u8?checkedby:iptvcat.com
-#EXTINF:30,TV MARTÕ (Cuba)
+#EXTINF:30,TV MART√ç (Cuba)
 https://ocb-lh.akamaihd.net/i/ocb_mpls_tvmc1@383606/master.m3u8
 #EXTINF:0,TV MAS
 https://593b04c4c5670.streamlock.net:443/8008/8008/playlist.m3u8
@@ -1040,7 +1040,7 @@ https://srv1.zcast.com.br/daniel2525/daniel2525/playlist.m3u8
 https://novo.bitstreaming.info:1936/8032/8032/chunklist_w871408076.m3u8
 #EXTINF:0,TV SUR VISION
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
-#EXTINF:0,TV8 | SD | ConcepciÛn
+#EXTINF:0,TV8 | SD | Concepci√≥n
 https://593b04c4c5670.streamlock.net/8014/8014/chunklist_w623507691.m3u8
 #EXTINF:0,tvcinec
 http://tv01.logicahost.com.br:1935/tvcinec/tvcinec/live.m3u8
@@ -1072,7 +1072,7 @@ http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
 http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8
 #EXTINF:22,TVS
 http://cm.hostlagarto.com:8081/Tvstv/TvstvHD.myStream/playlist.m3u8
-#EXTINF:0,UCV  | SD | ValparaÌso
+#EXTINF:0,UCV  | SD | Valpara√≠so
 https://unlimited10-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:0,UES TV | HD
 http://cl.origin.grupoz.cl:1935/uestv/live/playlist.m3u8
@@ -1150,3 +1150,4 @@ http://195.181.163.39/LAT_Fox_Life_HD/index.m3u8
 
 #EXTINF:-1,ace
 acestream://3a5f59e4777c41275aa5c53b585f41ad66b32cc5
+
