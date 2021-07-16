@@ -73,5 +73,5 @@ http://195.181.163.39/LAT_TNT_Series_HD/index.m3u8
 #EXTINF:-1,Star Life
 http://195.181.163.39/LAT_Fox_Life_HD/index.m3u8
 
-#EXTINF:-1,ace
-acestream://3a5f59e4777c41275aa5c53b585f41ad66b32cc5
+#EXTINF:-1,VTV+
+http://45.170.40.250:8000/play/a01h
